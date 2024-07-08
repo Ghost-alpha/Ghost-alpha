@@ -2,7 +2,7 @@
 - 👀 I’m interested in game Development
 - 🌱 I’m currently learning C++
 - 📫 How to reach me on my Email "pramodgehlot2886@gmail.com"
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
 <!---
